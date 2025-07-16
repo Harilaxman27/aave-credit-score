@@ -87,6 +87,31 @@ Scoring logic is implemented in: `src/scoring_model.py`
 
 ---
 ---
+
+## 🔮 Future Work
+
+While the current system uses a rule-based scoring approach for transparency and interpretability, there are several directions to improve robustness and intelligence:
+
+### 🚀 Model Improvements
+- **Use supervised learning** (e.g., regression, gradient boosting) if labeled data becomes available
+- **Apply unsupervised learning** (e.g., clustering) to detect wallet behavior patterns
+- **Incorporate anomaly detection** for identifying flash loan attacks, bot-like behavior, or unusual spikes
+
+### 🧠 Feature Enhancements
+- Add **temporal behavior features** (e.g., seasonal activity, recent vs. old actions)
+- Include **token volatility**, stablecoin preferences, or LP participation
+- Track **interaction frequency with different pools or assets**
+
+### 📊 Scoring Enhancements
+- Weight actions using historical outcomes (e.g., penalize known exploit patterns)
+- Benchmark against known good or malicious wallets
+- Introduce **confidence scores** or **score justifications** for transparency
+
+---
+
+> This baseline rule-based scoring model offers interpretability and ease of audit — ideal for bootstrapping credit scoring in DeFi. Future versions can evolve toward more adaptive and data-driven solutions.
+
+---
 ## 🙌 Credits
 
 * Built for the **Aave Credit Scoring Internship Challenge**
