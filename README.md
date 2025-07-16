@@ -86,10 +86,11 @@ Scoring logic is implemented in: `src/scoring_model.py`
 * Full behavioral and statistical analysis in `analysis.md`
 
 ---
+---
+## 🙌 Credits
 
-##🙌 Credits
-Aave Credit Scoring Internship Challenge
-Built by Salendra Harilaxman
-16 July 2025
+Built for the **Aave Credit Scoring Internship Challenge**
+By: Salendra Harilaxman
+Date: **16th July 2025**
 
 ---
