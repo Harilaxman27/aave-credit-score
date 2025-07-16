@@ -1,7 +1,3 @@
-Absolutely! Here's your full 📄 `README.md` content in a clean and copy-pasteable **Markdown format** with all required sections:
-
----
-
 # 🏦 Aave Wallet Credit Scoring Model (DeFi Risk Analysis)
 
 This project assigns a **credit score (0–1000)** to wallets interacting with the Aave V2 protocol, based on their historical DeFi transaction behavior.
