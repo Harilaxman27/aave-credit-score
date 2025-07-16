@@ -6,26 +6,27 @@ The score estimates how responsible or risky a wallet is, based on actions like 
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
+```plaintext
 aave-credit-score/
 ├── data/                    # Raw input data
-│   └── user\_transactions.json
-├── outputs/                 # Output scores and plots
-│   ├── wallet\_scores.json
-│   ├── wallet\_scores.csv
-│   └── score\_distribution.png
+│   └── user_transactions.json
+├── outputs/                 # Generated outputs
+│   ├── wallet_scores.json
+│   ├── wallet_scores.csv
+│   └── score_distribution.png
 ├── src/                     # Source code
-│   ├── **init**.py
-│   ├── inspect\_json.py
-│   ├── feature\_engineering.py
-│   ├── scoring\_model.py
-│   ├── save\_and\_plot.py
-│   ├── test\_feature\_engineering.py
-│   └── test\_scoring.py
-├── analysis.md              # Wallet behavior & score distribution analysis
-├── requirements.txt         # Python dependencies
-└── README.md                # This file
+│   ├── __init__.py
+│   ├── inspect_json.py
+│   ├── feature_engineering.py
+│   ├── scoring_model.py
+│   ├── save_and_plot.py
+│   ├── test_feature_engineering.py
+│   └── test_scoring.py
+├── analysis.md              # Behavioral analysis
+├── requirements.txt         # Dependencies
+└── README.md                # Project documentation
 
 ---
 
