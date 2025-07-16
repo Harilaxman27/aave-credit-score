@@ -87,15 +87,6 @@ Scoring logic is implemented in: `src/scoring_model.py`
 
 ---
 
-## 📬 Submission
-
-To submit:
-
-* Upload this GitHub repository (public or zipped)
-* Submit via: [Submission Form](https://forms.gle/C7Y4MBKEGZgDWaNz7)
-
----
-
 ## 🙌 Credits
 
 Built for the **Aave Credit Scoring Internship Challenge**
