@@ -27,7 +27,7 @@ aave-credit-score/
 ├── analysis.md              # Behavioral analysis
 ├── requirements.txt         # Dependencies
 └── README.md                # Project documentation
-
+```
 ---
 
 ## ⚙️ How to Run
