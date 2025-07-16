@@ -89,8 +89,8 @@ Scoring logic is implemented in: `src/scoring_model.py`
 ---
 ## 🙌 Credits
 
-Built for the **Aave Credit Scoring Internship Challenge**
-By: Salendra Harilaxman
-Date: **16th July 2025**
+* Built for the **Aave Credit Scoring Internship Challenge**
+* By: Salendra Harilaxman
+* Date: **16th July 2025**
 
 ---
